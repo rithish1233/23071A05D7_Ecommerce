@@ -6,6 +6,7 @@ import Contact from "./pages/contact";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
 import Navbar from "./components/Navbar";
+import "bootstrap/dist/css/bootstrap.min.css";
 import Cart from "./pages/Cart";
 
 function App() {
